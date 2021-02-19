@@ -82,9 +82,3 @@ y_pred2 = knn_model.predict(X_test)
 
 print(accuracy_score(y_test, y_pred))
 
-
-
-
-
-
-
